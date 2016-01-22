@@ -1,6 +1,6 @@
 name: Xave
 favicon: null
-layout_spectrum: 0.22031628829427063
+layout_spectrum: 0.22868
 typography_spectrum: 0.7406912262085825
 title: Smile at Xave
 cta:
@@ -17,11 +17,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#ADD7F6'
-    - '#87BFFF'
-    - '#3F8EFC'
-    - '#2667FF'
-    - '#3B28CC'
+    - '#020202'
+    - '#5a6521'
+    - '#ffd8c4'
+    - '#bac22f'
+    - '#6f99b1'
   brandStrength: 0.45005263155326247
   lightness: 0.8372204257175326
   saturation: 0.6326185201760381
