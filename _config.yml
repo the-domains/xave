@@ -1,0 +1,28 @@
+name: Xave
+favicon: null
+layout_spectrum: 0.22031628829427063
+typography_spectrum: 0.7406912262085825
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.45005263155326247
+  lightness: 0.8372204257175326
+  saturation: 0.6326185201760381
+  rhythmicContrast: 0.991541319526732
+purpose: []
