@@ -1,7 +1,7 @@
 name: Xave
 favicon: null
 layout_spectrum: 0.22868
-typography_spectrum: 0.59733
+typography_spectrum: 0.50543
 title: Smile at Xave
 cta:
   domain: null
@@ -22,7 +22,7 @@ color:
     - '#ffd8c4'
     - '#bac22f'
     - '#6f99b1'
-  brandStrength: 0.375
+  brandStrength: 0.5
   lightness: 0.6875
   saturation: 0.1875
   rhythmicContrast: 0.75
