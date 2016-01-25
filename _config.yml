@@ -1,29 +1,41 @@
-name: Xave
-favicon: null
-layout_spectrum: 0.22868
-typography_spectrum: 0.50543
 title: Smile at Xave
+purpose: []
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+color:
+  saturation: 0.1875
+  lightness: 0.6875
+  brandStrength: 0.5053763
+  brandColors:
+    - '#181515'
+    - '#997743'
+    - '#5C3820'
+    - '#5C6EA3'
+    - '#FFFFF2'
+  rhythmicContrast: 0.75
 cta:
-  domain: null
   bucket: null
   version: null
+  domain: null
 analytics:
+  twitter: null
   google: null
   facebook: null
-  twitter: null
+favicon: null
+name: Xave
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#020202'
-    - '#5a6521'
-    - '#ffd8c4'
-    - '#bac22f'
-    - '#6f99b1'
-  brandStrength: 0.5
-  lightness: 0.6875
-  saturation: 0.1875
-  rhythmicContrast: 0.75
-purpose: []
+typography_spectrum: 0.1021505
+layout_spectrum: 1
