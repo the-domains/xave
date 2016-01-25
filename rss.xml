@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Smile at Xave]]></title>
+        <description><![CDATA[Smile at Xave]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 25 Jan 2016 00:56:33 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Home]]></title>
+            <description><![CDATA[<article><h1>Home</h1><p>Welcome to the test site</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/8bb772c0-1634-468c-8227-42a858f6d5e5.png"></article>]]></description>
+            <link>undefinedhome/index.html</link>
+            <guid isPermaLink="false">e7f6e590-039d-4766-aa64-8efe46a09cf3</guid>
+            <pubDate>Mon, 25 Jan 2016 00:56:16 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
