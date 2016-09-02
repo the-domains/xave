@@ -1,5 +1,34 @@
-title: Smile at Xave
-purpose: []
+typography_spectrum: 0.1021505
+color:
+  saturation: 0.1875
+  lightness: 0.6875
+  brandStrength: 0.5053763
+  brandColors:
+    - '#181515'
+    - '#997743'
+    - '#5C3820'
+    - '#5C6EA3'
+    - '#FFFFF2'
+  rhythmicContrast: 0.75
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 1
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+name: Xave
+cta:
+  bucket: null
+  version: null
+  domain: null
+navigation:
+  - name: Facebook
+    url: 'http://facebook.com/xavester'
+    type: external
+favicon: null
 collections:
   - index:
       path: /
@@ -12,30 +41,5 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-color:
-  saturation: 0.1875
-  lightness: 0.6875
-  brandStrength: 0.5053763
-  brandColors:
-    - '#181515'
-    - '#997743'
-    - '#5C3820'
-    - '#5C6EA3'
-    - '#FFFFF2'
-  rhythmicContrast: 0.75
-cta:
-  bucket: null
-  version: null
-  domain: null
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-favicon: null
-name: Xave
-opengraph:
-  image: null
-  type: null
-  appId: null
-typography_spectrum: 0.1021505
-layout_spectrum: 1
+title: Smile at Xave
+purpose: []
